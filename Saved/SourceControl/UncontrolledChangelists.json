@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/PlayerChar_BP.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/ArenaMode.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/PlayerCont_BP.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Map/Arena.umap"
+			]
+		}
+	]
+}
