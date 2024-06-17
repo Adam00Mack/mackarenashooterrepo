@@ -10,7 +10,19 @@
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/PlayerCont_BP.uasset",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Map/Arena.umap",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/PlayerProj_BP.uasset",
-				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/Projectile_Mat.uasset"
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/Projectile_Mat.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AI_BT.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AI_BB.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/Tasks/Wander.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AICont_BP.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AIChar_BP.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AIProj_BP.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/Tasks/Focus.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/Tasks/MoveToLocation.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/Tasks/Shoot.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/Tasks/StopShooting.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Spawner/SpawnPoint.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AI_.uasset"
 			]
 		}
 	]
