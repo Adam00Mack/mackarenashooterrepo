@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/adam0/Desktop/school/GAM_207/Mack_Arena_Shooter/Content/Game/Score_W.uasset",
+				"C:/Users/adam0/Desktop/school/GAM_207/Mack_Arena_Shooter/Content/Game/ArenaPlayers.uasset",
+				"C:/Users/adam0/Desktop/school/GAM_207/Mack_Arena_Shooter/Content/AI/AIChar_BP.uasset",
+				"C:/Users/adam0/Desktop/school/GAM_207/Mack_Arena_Shooter/Content/Player/PlayerChar_BP.uasset",
+				"C:/Users/adam0/Desktop/school/GAM_207/Mack_Arena_Shooter/Content/Map/Arena.umap",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/PlayerChar_BP.uasset",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/ArenaMode.uasset",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/PlayerCont_BP.uasset",
@@ -22,6 +27,8 @@
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/Tasks/Shoot.uasset",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/Tasks/StopShooting.uasset",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Spawner/SpawnPoint.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/Player/Player_W.uasset",
+				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AI_W.uasset",
 				"C:/Users/adam0/Desktop/school/GAM207/Mack_Arena_Shooter/Content/AI/AI_.uasset"
 			]
 		}
